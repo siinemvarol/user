@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "firstName": "test1",
+      "surname": "test111",
+      "gender": "female",
+      "age": "34",
+      "isAdmin": "notAdmin",
+      "id": 1
+    },
+    {
+      "firstName": "sinem1",
+      "surname": "varol1",
+      "gender": "female",
+      "age": "44",
+      "isAdmin": "true",
+      "id": 2
+    },
+    {
+      "firstName": "sinem2",
+      "surname": "varol2",
+      "gender": "male",
+      "age": "55",
+      "isAdmin": "false",
+      "id": 3
+    },
+    {
+      "firstName": "sinem3 admin",
+      "surname": "varol3",
+      "gender": "female",
+      "age": "44",
+      "isAdmin": "true",
+      "id": 4
+    },
+    {
+      "firstName": "sinem4 admin değil",
+      "surname": "varol4",
+      "gender": "female",
+      "age": "56",
+      "isAdmin": "false",
+      "id": 5
+    }
+  ]
+}
